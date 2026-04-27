@@ -6,8 +6,6 @@
 
 **JMeter (CLI)**
 ![Test Plan 1 JMeter CLI](assets/images/test_plan_1_JMeter_CLI.png)
-
-**Result**
 ![Test Plan 1 JMeter CLI result](assets/images/test_plan_1_JMeter_CLI_result.png)
 
 ## Endpoint `/all-student-name`
@@ -16,8 +14,6 @@
 
 **JMeter (CLI)**
 ![Test Plan 2 JMeter CLI](assets/images/test_plan_2_JMeter_CLI.png)
-
-**Result**
 ![Test Plan 2 JMeter CLI result](assets/images/test_plan_2_JMeter_CLI_result.png)
 
 ## Endpoint `/highest-gpa`
@@ -26,6 +22,4 @@
 
 **JMeter (CLI)**
 ![Test Plan 3 JMeter CLI](assets/images/test_plan_3_JMeter_CLI.png)
-
-**Result**
 ![Test Plan 3 JMeter CLI result](assets/images/test_plan_3_JMeter_CLI_result.png)
